@@ -1,0 +1,13 @@
+.App {
+  text-align: center;
+}
+
+label {
+  display: block;
+  text-align: center;
+  margin-top: 10px; 
+}
+
+label div {
+  margin: 5px 0; 
+}
